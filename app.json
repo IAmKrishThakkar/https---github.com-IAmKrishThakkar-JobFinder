@@ -1,10 +1,11 @@
 {
   "expo": {
     "scheme": "acme",
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "name": "JobFinder",
-    "slug": "JobFinder"
+    "slug": "JobFinder",
+    "android": {
+      "newArchEnabled": true
+    }
   }
 }
