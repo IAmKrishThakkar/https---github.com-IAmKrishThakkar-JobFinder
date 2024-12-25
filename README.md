@@ -1,13 +1,55 @@
-# Expo Router Example
+Here’s the updated `README.md` file with the **Technologies Used** section included:  
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+---
 
-## 🚀 How to use
+# Job Finder
 
-```sh
-npx create-expo-app -e with-router
-```
+My second project is the Job Finder app, which I built using React Native. It helps users discover and apply for jobs seamlessly, with a focus on an intuitive user interface and functionality.
 
-## 📝 Notes
+---
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+## Screenshots
+
+### Home Screen  
+![Home Screen](JobHome.jpg)
+
+### Job Details Screen  
+![Job Details Screen](https://github.com/IAmKrishThakkar/JobFinder/blob/main/JobDetail.jpg)
+
+### Favorites Search  
+![Favorites Search](https://github.com/IAmKrishThakkar/JobFinder/blob/main/JobSearch.jpg)
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/IAmKrishThakkar/JobFinder.git
+   cd JobFinder
+   ```
+
+2. Install Dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the App:
+   - For Android:
+     ```bash
+     npm run android
+     ```
+   - For iOS:
+     ```bash
+     npm run ios
+     ```
+
+---
+
+## Technologies Used
+
+- **React Native**: Framework for building cross-platform mobile apps.  
+- **Expo**: A platform for React Native apps.  
+- **Axios**: To handle API calls.  
+- **Async Storage**: For storing user preferences locally.  
+  
