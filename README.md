@@ -14,10 +14,10 @@ My second project is the Job Finder app, which I built using React Native. It he
 ![Home Screen](JobHome.jpg)
 
 ### Job Details Screen  
-![Job Details Screen](https://github.com/IAmKrishThakkar/JobFinder/blob/main/JobDetail.jpg)
+![Job Details Screen](JobDetail.jpg)
 
 ### Favorites Search  
-![Favorites Search](https://github.com/IAmKrishThakkar/JobFinder/blob/main/JobSearch.jpg)
+![Favorites Search](JobSearch.jpg)
 
 ---
 
